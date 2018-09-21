@@ -1,2 +1,2 @@
 # CC4002
-Work history
+Work history, first codes on C++
